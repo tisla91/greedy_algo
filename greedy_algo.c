@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <cs50.h>
 #include <math.h>
-// Greedy Algorithm: Determines minimum number of coins found in a number
+// Greedy Algorithm: Determines minimum number of coins found in a currency amount
 
 float change_amt(void);      // Declares change_amt function
 
