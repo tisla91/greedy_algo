@@ -1,2 +1,2 @@
 # greedy_algo
-Calculates minimum number of coin in a given amount
+Calculates MINIMUM number of coin in a given currency amount
